@@ -6,11 +6,8 @@
 #define PHYSICS_ENGINE_MAIN_H
 
 
-
 class main {
-
 };
-
 
 
 #endif //PHYSICS_ENGINE_MAIN_H
